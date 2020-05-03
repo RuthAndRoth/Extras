@@ -1,0 +1,25 @@
+Hi!
+
+To use this template, just drop your design in above the Design Example layer, and hide (or delete) that layer. Change the text to your own, or hide (or delete) that layer, as well.
+
+You can use the Guides to help you line up both text and images; they are set to the centre of the front and back. (The front is on the left, the back on the right.)
+
+If you want to have a colored shirt, just unhide the Put Color Here layer, and fill it with whatever color you like. It's set to Multiply, which means that the shirt shadows will show through below it. You might want to experiment with Blending Modes; you can get some interesting effects that way. <g>
+
+If you don't want the folds and texture on your shirt, just hide that layer. If you want them to be darker, then play with the Levels; but be careful. It's possible to make them too dark, and then they will be very ugly.
+
+Check the Highlight opacity, if your shirt is any color but white. You want it to be very subtle, or it will look like chalk dusting when you upload the shirt. Make it visible, and then reduce it just a point or two.
+
+Make sure that the UVs are hidden, if you used them, and that the shirt is just the way you want, and then shrink it to 512x512 pixels and save it as a 32 bit .tga file. The Alpha channel is already in place, and ready to go.
+
+Take a look at it on the Preview models, before you spend your Lindens for the upload, just to make sure the placement is correct, the highlights aren't too obvious, and so on.
+
+Then upload, apply it to a New shirt (or Undershirt or Jacket) in Appearances, and wear it in good health!
+
+You are allowed to do whatever you want with this template, including making shirts to sell and give to your friends. But please, don't violate anyone's copyright (put your own designs on them, or designs you have permission to use, not stuff that you snagged from the web. Someone owns all that stuff.) And if you make a lot of money selling shirts using this template, consider donating some to a worthy cause.
+
+This template is provided "as is," and these are the complete instructions. If you have any other questions, please post them on the forums, since it's very likely you're not the only one.
+
+Have fun!
+
+Robin (Sojourner) Wood
